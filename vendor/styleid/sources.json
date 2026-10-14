@@ -1,0 +1,26 @@
+{
+  "run_styleid_diffusers.py": {
+    "url": "https://raw.githubusercontent.com/jiwoogit/StyleID/main/diffusers_implementation/run_styleid_diffusers.py",
+    "sha256": "f79e981bcd978a38ce8eed2d0cb7fd56e679fb72caa6ad3fe796d0a73c0f82e5"
+  },
+  "stable_diffusion.py": {
+    "url": "https://raw.githubusercontent.com/jiwoogit/StyleID/main/diffusers_implementation/stable_diffusion.py",
+    "sha256": "ae0a84233e8562e72e91138b76b819e34d3c221479a8f76a3052a10ede074dfa"
+  },
+  "config.py": {
+    "url": "https://raw.githubusercontent.com/jiwoogit/StyleID/main/diffusers_implementation/config.py",
+    "sha256": "e3a225b2ca9ae582e824ffba0d754aca3a9dd8af55e0cbf46cee5304885bd4a2"
+  },
+  "utils.py": {
+    "url": "https://raw.githubusercontent.com/jiwoogit/StyleID/main/diffusers_implementation/utils.py",
+    "sha256": "27cae6270fc5fc1c67cd549105a113070665f5731d104f6063c2b85c7f4309c2"
+  },
+  "LICENSE": {
+    "url": "https://raw.githubusercontent.com/jiwoogit/StyleID/main/LICENSE",
+    "sha256": "fc4d38ab6f4e18238cc8daa379a4ba9708d2d6662515f994044489c8be10215d"
+  },
+  "README.md": {
+    "url": "https://raw.githubusercontent.com/jiwoogit/StyleID/main/README.md",
+    "sha256": "d16f8b86cd2509d23a93428e9b298e5206404f48b1343c07092a2a9c9c62ca7f"
+  }
+}
